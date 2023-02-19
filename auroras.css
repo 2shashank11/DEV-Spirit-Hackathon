@@ -1,0 +1,65 @@
+* {
+    box-sizing: border-box;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: rgb(231, 102, 102);
+}
+.main-header{
+    text-align: center;
+    
+    
+    
+}
+
+.rbutton{
+    
+    display: inline-block;
+        
+        padding: 20px;
+        width: 200px;
+        color: black;
+        text-align: center;
+        border-radius:5rem ;
+        height: 3rem;
+        
+}
+.righth{
+    
+    
+    text-align: right;
+    float: right;
+    
+
+}
+.rot_text{
+    font-size: 1000%;
+    rotate: -90deg;
+    text-align: right;
+    float: right;
+    
+
+}
+
+.img1{
+    float: left;
+    display: inline-flex;
+    
+    
+    margin: 15px;
+   
+}
+
+.box1{
+    background-color: black;
+}
+.box1 span{
+    color:white;
+    background-color: black;
+}
+.man{
+    font-size: 100%;
+    
+    text-align: right;
+    float: right;
+    color: white;
+
+}
