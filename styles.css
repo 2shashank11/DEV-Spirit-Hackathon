@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(231, 102, 102); 
+    color: black;
+    font-family: 'Manrope';
+    font-weight: 700;
+    letter-spacing: 2px;
+
+}
+
+.sup{
+    font-size: x-large;
+    
+}
+
+.logo{
+    box-align: right;
+}
+
+.head{
+    
+    font-weight: bold;
+    color: white;
+    font-size: xxx-large;
+}
+
+div {    
+     
+    }  
+    img{  
+    height: 100px;  
+    width: 100px;  
+    }  
+   #left {    
+    text-align: left;  
+    }  
+    #center {    
+    text-align: center;  
+    }  
+    #right{    
+    text-align: right;  
+    }
+
+.sidewaysh{
+    font-size: 400%;
+    rotate: -90deg;
+    text-align: right;
+    opacity: 70%;
+        
+}
